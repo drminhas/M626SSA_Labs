@@ -8,6 +8,6 @@ Choose a popular application you use daily, such as Spotify, Netflix, or a local
 2. Draw a comparison matrix comparing your chosen style against the Layered architecture. Score them on maintainability and performance.
 
 ## What to Submit
-Create a folder with your name and upload:
+Go to the Week2Task folder, create a folder with your name and upload:
 1. style_diagram.png
 2. comparison_matrix.md
